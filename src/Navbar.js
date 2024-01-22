@@ -15,6 +15,7 @@ export const Navbar = () => {
     setSearchFocused(true);
   };
 
+  
   const handleSearchBlur = () => {
     setSearchFocused(false);
   };
